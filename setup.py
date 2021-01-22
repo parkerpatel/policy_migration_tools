@@ -18,7 +18,7 @@ test_requirements = ['pytest>=3', ]
 
 setup(
     author="Parker (Prakashbhai) Patel",
-    author_email='prakash.patel13@gmail.com',
+    author_email='patelp@checkpoint.com',
     python_requires='>=3.5',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
